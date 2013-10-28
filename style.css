@@ -1,0 +1,19 @@
+body {
+    background: grey;
+}
+
+.wrapper {
+    max-width: 768px;
+    text-align: center;
+    margin: 0 auto auto;
+
+}
+
+h1 {
+    padding: 20px;
+    font-size: 3em;
+}
+
+p {
+
+}
